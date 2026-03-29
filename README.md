@@ -8,3 +8,9 @@
 
 
 // Git setup
+1. clone the repository from git using - "git clone https://github.com/adithya225/Full-Stack-GenAI-Bootcamp-1.0.git"
+2. once cloned start working on the items from your local
+3. if found any changes select the ush to from repositories three dots and add a new remote where to push the changes. default will be the cloned repository
+4. create a new branch by adding a new name
+5. once done click on commit and then sync the changes for the selected branch
+6. create a Pull Request in github to merge the changes from adithya branch to main branch by just clicking on create pull request.
