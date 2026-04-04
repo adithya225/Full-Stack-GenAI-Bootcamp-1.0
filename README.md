@@ -6,6 +6,17 @@
 3. uv venv env --python 3.11 # for creating virtual env
 4. env\Scripts\activate # for activating virtual env
 
+# initialize uv
+1. uv init
+
+# To install requirements 
+1. uv add pandas
+2. uv pip install pandas
+
+# To install from requirements doc
+1. uv add -r requirements.txt
+2. uv pip install -r requirements.txt
+
 
 // Git setup
 1. clone the repository from git using - "git clone https://github.com/adithya225/Full-Stack-GenAI-Bootcamp-1.0.git"
